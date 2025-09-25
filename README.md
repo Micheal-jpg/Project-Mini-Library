@@ -18,23 +18,23 @@ This project demostrates Object Oriented Programming (OOP) concepts such as **cl
 2. Install locally:
     pip install -e
 
-USAGE
+## USAGE
 Run the project directly:
     Python Library.py
 
-PROJECT STRUCTURE
+## PROJECT STRUCTURE
 Project-Mini-Library/
 |
 |-- Library.py # Main library system project
 |-- README.md # Documentation
 
-CONCEPTS LEARNED
+## CONCEPTS LEARNED
 - Python classes & objects
 - Encapsulation (keeping book details inside objects)
 - Reusability (importing the class in another file)
 - if __name__ == "__main__": (For testing)
 
-LICENSE
+## LICENSE
 This project is licensed under the MIT License feel free to use and modify it.
 
 Author: Mike
