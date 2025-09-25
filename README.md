@@ -1,7 +1,7 @@
 # Mini Library System
 
 A simple ** Library Management System ** built in python.
-This project demostrates Object Oriented Programming (OOP) concepts such as **classes**, 
+This project demonstrates Object Oriented Programming (OOP) concepts such as **classes**, 
 **objects** and **methods** in a fun and practical way.
 
 ## Features
