@@ -16,17 +16,17 @@ This project demostrates Object Oriented Programming (OOP) concepts such as **cl
     cd Project-Mini-Library
 
 2. Install locally:
-    pip install -e
+-   pip install -e
 
 ## USAGE
 Run the project directly:
-    Python Library.py
+-   Python Library.py
 
 ## PROJECT STRUCTURE
-Project-Mini-Library/
-|
-|-- Library.py # Main library system project
-|-- README.md # Documentation
+- Project-Mini-Library/
+- |
+- |-- Library.py # Main library system project
+- |-- README.md # Documentation
 
 ## CONCEPTS LEARNED
 - Python classes & objects
